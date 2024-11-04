@@ -8,3 +8,6 @@ git clone "adresse du repository"
 git add .
 git commit -m "commentaire"
 git push
+
+#commande pour éfectuer un pull
+?
